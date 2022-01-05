@@ -1,5 +1,6 @@
 # counter-js
 A very simple number counter made with HTML, CSS & JavaScript!
+
 You can check it out by clickink in the link: https://rudzzz.github.io/counter-js/
 
 ## 🇧🇷
